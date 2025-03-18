@@ -9,7 +9,7 @@ I completed my pre-university education at **Government Model Science College**,
 
  ## Current Focus:<br/>
 
-*Learning **AI & Deep Learning**<br/>
-*Exploring new technologies <br/>
-*Building and sharing projects on **GitHub**<br/>
-*<ins>Let’s connect and collaborate!</ins> 
+Learning **AI & Deep Learning**.<br/>
+Exploring new technologies. <br/>
+Building and sharing projects on **GitHub**.<br/>
+<ins>Let’s connect and collaborate!</ins> 
