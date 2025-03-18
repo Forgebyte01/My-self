@@ -7,9 +7,9 @@
 
 I completed my pre-university education at **Government Model Science College**, and now I’m on a mission to sharpen my skills in **AI, Deep Learning, and Development**.<br/>
 
- ##Current Focus:<br/>
+ ## Current Focus:<br/>
 
--Learning **AI & Deep Learning**<br/>
--Exploring new technologies <br/>
--Building and sharing projects on **GitHub**<br/>
--<ins>Let’s connect and collaborate!</ins> 
+*Learning **AI & Deep Learning**<br/>
+*Exploring new technologies <br/>
+*Building and sharing projects on **GitHub**<br/>
+*<ins>Let’s connect and collaborate!</ins> 
